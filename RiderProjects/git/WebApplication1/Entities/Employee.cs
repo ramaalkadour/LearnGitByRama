@@ -1,6 +1,6 @@
 namespace WebApplication1.Entities;
 
-public class Employee
+public class Employeegfgf
 {
     
 }
